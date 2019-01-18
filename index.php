@@ -20,7 +20,7 @@
 	<table class="table">
 		<tr>
 			<th>ID</th>
-			<th>Name</th>
+			<th>Genre Name</th>
 		</tr>
 		<?php foreach($names as $name) : ?>
 			<tr>
